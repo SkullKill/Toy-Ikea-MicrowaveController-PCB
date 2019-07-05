@@ -1,6 +1,11 @@
 # Toy-Ikea-MicrowaveController-PCB
 PCB for Microwave Controller for Ikea Kitchen DUKTIG
 
+FYI Gerber files are in the release section
+
+https://github.com/SkullKill/Toy-Ikea-MicrowaveController-PCB/releases
+
+
   Toy-Ikea-MicrowaveController
   
   Toy Ikea Microwave Controller
