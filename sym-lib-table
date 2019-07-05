@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pi-template)(type Legacy)(uri ${KIPRJMOD}/pi-template.lib)(options "")(descr ""))
+  (lib (name Toy-Ikea-MicrowaveController)(type Legacy)(uri ${KIPRJMOD}/Toy-Ikea-MicrowaveController.lib)(options "")(descr ""))
+)
